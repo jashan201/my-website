@@ -93,7 +93,7 @@ nav ul li {
     width: 120px;
     height: 45px;
     background-color: #fff;
-    color: #033341;
+    color: #086078;
     border-radius: 50px;
     font-size: 18px;
     font-weight: 700;
@@ -103,7 +103,7 @@ nav ul li {
 #items button a {
     text-decoration: none;
     background-color: #fff;
-    color: #033341;
+    color: #086078;
 }
 
 /* ------------------------------ */
@@ -184,7 +184,7 @@ nav ul li {
 }
 
 .examples h2 {
-    color: #094557;
+    color: #086078;
     font-size: 25px;
 }
 
@@ -201,7 +201,7 @@ nav ul li {
 }
 
 #sections div {
-    background-color: rgba(123, 123, 124, 0.63);
+    background-color: #ffffffd9;
     color: #000;
     height: 250px;
     width: 250px;
@@ -222,7 +222,7 @@ nav ul li {
 
 #sections div a {
     text-decoration: none;
-    color: #033341;
+    color: #086078;
     font-size: 18px;
     font-weight: 600;
 }
@@ -250,7 +250,7 @@ footer {
 }
 
 .links li a {
-    color: #094557;
+    color: #086078;
     font-size: 30px;
 }
 
